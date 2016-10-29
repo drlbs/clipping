@@ -1,3 +1,6 @@
+
+// From Foley et al., Introduction to Computer Graphics, Prog 3.7
+
 typedef struct {
 	unsigned all;
 	unsigned left:4;
