@@ -1,3 +1,4 @@
+// From Foley et al., Introduction to Computer Graphics, Prog 3.9
 
 typedef struct vertex {
 	float x, y;
